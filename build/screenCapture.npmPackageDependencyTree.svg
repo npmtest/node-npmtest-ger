@@ -1,0 +1,115 @@
+<svg height="1790" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1790" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">26 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ ger@0.0.99 </tspan>
+<tspan x="10" y="90">  ├── bluebird@2.9.25 </tspan>
+<tspan x="10" y="106">  ├── coffee-script@1.9.3 </tspan>
+<tspan x="10" y="122">  ├─┬ knex@0.12.6 </tspan>
+<tspan x="10" y="138">  │ ├─┬ babel-runtime@6.23.0 </tspan>
+<tspan x="10" y="154">  │ │ ├── core-js@2.4.1 </tspan>
+<tspan x="10" y="170">  │ │ └── regenerator-runtime@0.10.3 </tspan>
+<tspan x="10" y="186">  │ ├── bluebird@3.5.0 </tspan>
+<tspan x="10" y="202">  │ ├─┬ chalk@1.1.3 </tspan>
+<tspan x="10" y="218">  │ │ ├── ansi-styles@2.2.1 </tspan>
+<tspan x="10" y="234">  │ │ ├── escape-string-regexp@1.0.5 </tspan>
+<tspan x="10" y="250">  │ │ ├─┬ has-ansi@2.0.0 </tspan>
+<tspan x="10" y="266">  │ │ │ └── ansi-regex@2.1.1 </tspan>
+<tspan x="10" y="282">  │ │ ├── strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="298">  │ │ └── supports-color@2.0.0 </tspan>
+<tspan x="10" y="314">  │ ├─┬ commander@2.9.0 </tspan>
+<tspan x="10" y="330">  │ │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="346">  │ ├─┬ debug@2.6.3 </tspan>
+<tspan x="10" y="362">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="378">  │ ├── generic-pool@2.5.4 </tspan>
+<tspan x="10" y="394">  │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="410">  │ ├── interpret@0.6.6 </tspan>
+<tspan x="10" y="426">  │ ├─┬ liftoff@2.2.5 </tspan>
+<tspan x="10" y="442">  │ │ ├── extend@3.0.0 </tspan>
+<tspan x="10" y="458">  │ │ ├─┬ findup-sync@0.4.3 </tspan>
+<tspan x="10" y="474">  │ │ │ ├─┬ detect-file@0.1.0 </tspan>
+<tspan x="10" y="490">  │ │ │ │ └── fs-exists-sync@0.1.0 </tspan>
+<tspan x="10" y="506">  │ │ │ ├─┬ is-glob@2.0.1 </tspan>
+<tspan x="10" y="522">  │ │ │ │ └── is-extglob@1.0.0 </tspan>
+<tspan x="10" y="538">  │ │ │ ├─┬ micromatch@2.3.11 </tspan>
+<tspan x="10" y="554">  │ │ │ │ ├─┬ arr-diff@2.0.0 </tspan>
+<tspan x="10" y="570">  │ │ │ │ │ └── arr-flatten@1.0.3 </tspan>
+<tspan x="10" y="586">  │ │ │ │ ├── array-unique@0.2.1 </tspan>
+<tspan x="10" y="602">  │ │ │ │ ├─┬ braces@1.8.5 </tspan>
+<tspan x="10" y="618">  │ │ │ │ │ ├─┬ expand-range@1.8.2 </tspan>
+<tspan x="10" y="634">  │ │ │ │ │ │ └─┬ fill-range@2.2.3 </tspan>
+<tspan x="10" y="650">  │ │ │ │ │ │   ├── is-number@2.1.0 </tspan>
+<tspan x="10" y="666">  │ │ │ │ │ │   ├─┬ isobject@2.1.0 </tspan>
+<tspan x="10" y="682">  │ │ │ │ │ │   │ └── isarray@1.0.0 </tspan>
+<tspan x="10" y="698">  │ │ │ │ │ │   ├── randomatic@1.1.6 </tspan>
+<tspan x="10" y="714">  │ │ │ │ │ │   └── repeat-string@1.6.1 </tspan>
+<tspan x="10" y="730">  │ │ │ │ │ ├── preserve@0.2.0 </tspan>
+<tspan x="10" y="746">  │ │ │ │ │ └── repeat-element@1.1.2 </tspan>
+<tspan x="10" y="762">  │ │ │ │ ├─┬ expand-brackets@0.1.5 </tspan>
+<tspan x="10" y="778">  │ │ │ │ │ └── is-posix-bracket@0.1.1 </tspan>
+<tspan x="10" y="794">  │ │ │ │ ├── extglob@0.3.2 </tspan>
+<tspan x="10" y="810">  │ │ │ │ ├── filename-regex@2.0.0 </tspan>
+<tspan x="10" y="826">  │ │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="842">  │ │ │ │ │ └── is-buffer@1.1.5 </tspan>
+<tspan x="10" y="858">  │ │ │ │ ├─┬ normalize-path@2.1.1 </tspan>
+<tspan x="10" y="874">  │ │ │ │ │ └── remove-trailing-separator@1.0.1 </tspan>
+<tspan x="10" y="890">  │ │ │ │ ├─┬ object.omit@2.0.1 </tspan>
+<tspan x="10" y="906">  │ │ │ │ │ ├─┬ for-own@0.1.5 </tspan>
+<tspan x="10" y="922">  │ │ │ │ │ │ └── for-in@1.0.2 </tspan>
+<tspan x="10" y="938">  │ │ │ │ │ └── is-extendable@0.1.1 </tspan>
+<tspan x="10" y="954">  │ │ │ │ ├─┬ parse-glob@3.0.4 </tspan>
+<tspan x="10" y="970">  │ │ │ │ │ ├─┬ glob-base@0.3.0 </tspan>
+<tspan x="10" y="986">  │ │ │ │ │ │ └── glob-parent@2.0.0 </tspan>
+<tspan x="10" y="1002">  │ │ │ │ │ └── is-dotfile@1.0.2 </tspan>
+<tspan x="10" y="1018">  │ │ │ │ └─┬ regex-cache@0.4.3 </tspan>
+<tspan x="10" y="1034">  │ │ │ │   ├── is-equal-shallow@0.1.3 </tspan>
+<tspan x="10" y="1050">  │ │ │ │   └── is-primitive@2.0.0 </tspan>
+<tspan x="10" y="1066">  │ │ │ └─┬ resolve-dir@0.1.1 </tspan>
+<tspan x="10" y="1082">  │ │ │   ├─┬ expand-tilde@1.2.2 </tspan>
+<tspan x="10" y="1098">  │ │ │   │ └── os-homedir@1.0.2 </tspan>
+<tspan x="10" y="1114">  │ │ │   └─┬ global-modules@0.2.3 </tspan>
+<tspan x="10" y="1130">  │ │ │     ├─┬ global-prefix@0.1.5 </tspan>
+<tspan x="10" y="1146">  │ │ │     │ ├─┬ homedir-polyfill@1.0.1 </tspan>
+<tspan x="10" y="1162">  │ │ │     │ │ └── parse-passwd@1.0.0 </tspan>
+<tspan x="10" y="1178">  │ │ │     │ ├── ini@1.3.4 </tspan>
+<tspan x="10" y="1194">  │ │ │     │ └─┬ which@1.2.14 </tspan>
+<tspan x="10" y="1210">  │ │ │     │   └── isexe@2.0.0 </tspan>
+<tspan x="10" y="1226">  │ │ │     └── is-windows@0.2.0 </tspan>
+<tspan x="10" y="1242">  │ │ ├── flagged-respawn@0.3.2 </tspan>
+<tspan x="10" y="1258">  │ │ ├── rechoir@0.6.2 </tspan>
+<tspan x="10" y="1274">  │ │ └─┬ resolve@1.3.2 </tspan>
+<tspan x="10" y="1290">  │ │   └── path-parse@1.0.5 </tspan>
+<tspan x="10" y="1306">  │ ├── lodash@4.17.4 </tspan>
+<tspan x="10" y="1322">  │ ├── minimist@1.1.3 </tspan>
+<tspan x="10" y="1338">  │ ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="1354">  │ │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="1370">  │ ├── node-uuid@1.4.8 </tspan>
+<tspan x="10" y="1386">  │ ├── pg-connection-string@0.1.3 </tspan>
+<tspan x="10" y="1402">  │ ├─┬ readable-stream@1.1.14 </tspan>
+<tspan x="10" y="1418">  │ │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="1434">  │ │ ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="1450">  │ │ └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="1466">  │ ├─┬ tildify@1.0.0 </tspan>
+<tspan x="10" y="1482">  │ │ └── user-home@1.1.1 </tspan>
+<tspan x="10" y="1498">  │ └── v8flags@2.0.12 </tspan>
+<tspan x="10" y="1514">  ├── lodash@3.9.3 </tspan>
+<tspan x="10" y="1530">  ├── moment@2.17.1 </tspan>
+<tspan x="10" y="1546">  └─┬ pg@4.3.0 </tspan>
+<tspan x="10" y="1562">    ├── buffer-writer@1.0.0 </tspan>
+<tspan x="10" y="1578">    ├── generic-pool@2.1.1 </tspan>
+<tspan x="10" y="1594">    ├── packet-reader@0.2.0 </tspan>
+<tspan x="10" y="1610">    ├─┬ pg-types@1.11.0 </tspan>
+<tspan x="10" y="1626">    │ ├── ap@0.2.0 </tspan>
+<tspan x="10" y="1642">    │ ├── postgres-array@1.0.2 </tspan>
+<tspan x="10" y="1658">    │ ├── postgres-bytea@1.0.0 </tspan>
+<tspan x="10" y="1674">    │ ├── postgres-date@1.0.3 </tspan>
+<tspan x="10" y="1690">    │ └─┬ postgres-interval@1.0.2 </tspan>
+<tspan x="10" y="1706">    │   └── xtend@4.0.1 </tspan>
+<tspan x="10" y="1722">    ├─┬ pgpass@0.0.3 </tspan>
+<tspan x="10" y="1738">    │ └─┬ split@0.3.3 </tspan>
+<tspan x="10" y="1754">    │   └── through@2.3.8 </tspan>
+<tspan x="10" y="1770">    └── semver@4.3.6</tspan>
+</text>
+</svg>
