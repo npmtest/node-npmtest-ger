@@ -1,6 +1,6 @@
 # npmtest-ger
 
-#### test coverage for  [ger (v0.0.99)](https://github.com/grahamjenson/ger#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ger.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ger) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ger.svg)](https://travis-ci.org/npmtest/node-npmtest-ger)
+#### basic test coverage for  [ger (v0.0.99)](https://github.com/grahamjenson/ger#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ger.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ger) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ger.svg)](https://travis-ci.org/npmtest/node-npmtest-ger)
 
 #### Good Enough Recommendations (GER) is a collaborative filtering based recommendations engine built to be easy to use and integrate into your application.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-ger/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-ger/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-ger/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-ger/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ger/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ger/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-ger/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-ger/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ger/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ger/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-ger/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-ger/build/coverage.html/index.html)
 
@@ -87,7 +87,8 @@
         "test": "mocha"
     },
     "url": "https://github.com/grahamjenson/ger.git",
-    "version": "0.0.99"
+    "version": "0.0.99",
+    "bin": {}
 }
 ```
 
